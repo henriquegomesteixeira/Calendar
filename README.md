@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte de um estudo prático para aprimorar ha
 O projeto está disponível para acesso no link: [Calendário Interativo](https://calendar-wine-one.vercel.app/)
 <br />
 <br />
-![gif](https://github.com/henriquegomesteixeira/Calendar/assets/115906489/8b962caf-9fc3-47c6-b193-accd0643d277.gif)
+[![image](https://github.com/henriquegomesteixeira/Calendar/assets/115906489/8b962caf-9fc3-47c6-b193-accd0643d277)](https://calendar-wine-one.vercel.app/)
 
 ## Instruções de Uso
 
