@@ -18,7 +18,7 @@ Este projeto foi desenvolvido como parte de um estudo prático para aprimorar ha
 
 ## Demonstração
 
-O projeto está disponível para acesso no link: <a href="https://calendar-wine-one.vercel.app/" target="_blank">Calendário Interativo</a>
+O projeto está disponível para acesso no link: [Calendário Interativo](https://calendar-wine-one.vercel.app/)
 <br />
 <br />
 ![gif](https://github.com/henriquegomesteixeira/Calendar/assets/115906489/8b962caf-9fc3-47c6-b193-accd0643d277.gif)
@@ -34,4 +34,4 @@ O projeto está disponível para acesso no link: <a href="https://calendar-wine-
 
 Este projeto é puramente educacional e foi desenvolvido com o propósito de praticar conceitos de HTML, CSS e JavaScript. Não possui funcionalidades avançadas e pode ser utilizado como base para projetos mais complexos no futuro.
 
-<a href="https://calendar-wine-one.vercel.app/" target="_blank">Link para o Projeto</a>
+[Link para o Projeto](https://calendar-wine-one.vercel.app/)
