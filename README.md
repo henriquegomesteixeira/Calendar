@@ -16,13 +16,9 @@ Este projeto foi desenvolvido como parte de um estudo prático para aprimorar ha
 - Destaque visual para feriados e sextas-feiras ao serem clicados.
 - Associação de cores às tarefas e aos dias.
 
-## Demonstração
+## Deploy
 
 O projeto está disponível para acesso no link: [Calendário Interativo](https://calendar-wine-one.vercel.app/)
-
-<br />
-
-![image](https://github.com/henriquegomesteixeira/Calendar/assets/115906489/8b962caf-9fc3-47c6-b193-accd0643d277)
 
 ## Instruções de Uso
 
